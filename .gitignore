@@ -1,0 +1,14 @@
+a.out
+.DS_Store
+cmake-build-debug
+.idea
+libft/.idea
+minishell
+test/*
+test
+Minishell
+.vscode
+obj
+minishell.dSYM/
+testa
+README.md
